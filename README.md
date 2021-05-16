@@ -1,13 +1,11 @@
 
-
-
 <p align="center"><img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif"/></p>
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Julio</h1>
+<h1 align="center">Hello There 👋, I'm Julio</h1>
 
 ---
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
+
  💬 Ask me about Full Stack Development, Cloud.
 ---
 
