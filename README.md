@@ -1,16 +1,14 @@
 
-### Hey Julio here 👋
+
+
+<p align="center"><img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif"/></p>
+
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Julio</h1>
 
 ---
-
-
-
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 
  💬 Ask me about Full Stack Development, Cloud.
-
-
 ---
 
 
@@ -43,6 +41,7 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
+
 
 **Check the Repositories and don't forget to give a star.** 👇
 
